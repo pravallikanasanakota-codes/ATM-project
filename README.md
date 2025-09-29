@@ -23,6 +23,8 @@ Java, Eclipse IDE
 2. Select operation
 3. See result
 4. Repeat until exit
+5. <img width="373" height="493" alt="Screenshot 2025-09-29 130356" src="https://github.com/user-attachments/assets/6d9afd57-3555-4d3f-8b67-82a71ed57636" />
+
 
 ## Conclusion
 Project helps understand Java OOP concepts and ATM simulation.
